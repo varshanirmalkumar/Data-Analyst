@@ -1,8 +1,9 @@
-<img width="1308" height="654" alt="Screenshot 2026-05-20 at 00 26 58" src="https://github.com/user-attachments/assets/53f76f96-e5d2-43f9-a417-01a4e050a913" />
+
 # 📊 Financial Analysis Dashboard — Tableau
 
 > From 30,000 rows of raw financial data to a fully interactive, decision-ready dashboard.
 
+<img width="1008" height="554" alt="Screenshot 2026-05-20 at 00 26 58" src="https://github.com/user-attachments/assets/53f76f96-e5d2-43f9-a417-01a4e050a913" />
 
 ## 🔗 Live Dashboard
 👉 [View on Tableau Public] (https://public.tableau.com/views/VarshaPortfolio/FinancialDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
